@@ -1,0 +1,25 @@
+ 
+<html>
+<head>
+	<title>ththi times - Hurricane Boganitz</title>
+</head>
+<body>
+	
+	<nav>
+		<a href="index.html"><img src="THTHI_Times.png" height="200" width="350"></a>
+		<link rel="stylesheet" href="styling/base.css">
+		<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+		<h2 group="subtitle">Your center for Kalranian propaganda</h2>
+		<hr>
+	</nav>
+  <h1><div class=weather>WEATHER</div></h1>
+  
+  <h2>Hurricane Boganitz</h2>
+  by Doge Land
+  
+  Hurricane Boganitz has started suddenly with its route going right into Nonadia. The storm is currently moving at over 100 miles an hour (107 to be exact), with very heavy rain at 7 inches of rain an hour. Waterspouts are happening often (20 an hour, but they are usually short lived), making for some very good photographs for the internet, though it's estimated that around 6 people have been injured doing so. Its movement is slowing down at 8 miles an hour right now. Storm surge is very high, with its highest being 9 at the South Nonadian Islands (Southern Islands in Nonadia).
+
+  Millions across the South Nonadian Islands lose power, with the government providing generators for important assets in towns and cities. Flood walls were built quickly, but it was in-effective due to the walls being built too quickly, which meant they weren't stable enough to handle the storm. Nonadians rush for |convenient foods due to the Nonadian Weather Service's suggestions to get through the storm, which included getting fast to make food like chips and granola bars.
+	<hr>
+</body>
+</html>
