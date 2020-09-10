@@ -1,0 +1,21 @@
+<html>
+<head>
+	<title>ththi times - EVACASIAN PROTESTS</title>
+</head>
+<body>
+	
+	<nav>
+		<a href="https://awaffle1.github.io/ththi-times/index.html"><img src="THTHI_Times.png" height="200" width="350"></a>
+		<link rel="stylesheet" href="styling/base.css">
+		<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+		<h2 group="subtitle">Your center for Kalranian propaganda</h2>
+		<hr>
+	</nav>
+  <h1 class=politics>POLITICS</h1>
+  
+  <h2>EVACASIAN PROTESTS</h2>
+  
+Evacasia has recently been dealing with huge protests for Fenland's independence, which Evacasia isn't really allowed to deter because protesting is one of the rights to an Evacasian citizen. Traffic has been stopped and bussinesses are at a standstill due to the huge protests. The protests are mainly anti-Gerissen, and mostly supported by the Uns Allein party in the Evacasian senate. The protests don't seem to be changing the Evacasian government's view on independence, though that could be changed.
+	<hr>
+</body>
+</html>
